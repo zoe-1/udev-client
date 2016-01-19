@@ -4,6 +4,9 @@ Anyone is welcome to join hapijs university :-)
 To start at an earlier assignment follow below <br/>
 `git checkout branch_name` instructions to start at the appropriate point.
 
+### Starting Point
+* `git checkout -b start 0.0.1`
+* create branch named 'start' at beginning state and start working on assignment1.
 
 ### 1 Create a basic HTTP server
 * `git checkout assignment1`
