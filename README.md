@@ -5,6 +5,14 @@ This is a community learning experiment utilizing the distributed classroom. The
 
 Lead Maintainer - [Jon Swenson](https://github.com/zoe-1)
 
+
+### Client Note
+
+* `client/app` files compiled for use in browser. (jsx etc)
+* `client/public` target of compiled src/app files, css, and images. 
+
+
+
 [![Join the chat at https://gitter.im/hapijs/university](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hapijs/university?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### How the project works
