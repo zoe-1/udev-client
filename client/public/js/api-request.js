@@ -17,7 +17,9 @@ $(document).ready(function () {
     // }, "json" );
 
     // var url = 'http://0.0.0.0:9000/login';
-    var url = 'http://192.168.5.195:9000/login';
+    // var url = 'http://192.168.5.195:9000/login';
+    // 10.1.1.193
+    var url = 'http://10.1.1.193:9000/login';
 
     jQuery.ajax( url , {
         complete: function (data, status) {
